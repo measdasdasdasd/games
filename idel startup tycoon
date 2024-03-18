@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Embedded Website</title>
+    <title>idel startup tycoon
+</title>
 </head>
 <body>
 
 <h2>https://www.coolmathgames.com/0-idle-startup-tycoon:</h2>
 
-<iframe src="https://example.com" width="800" height="600">
+<iframe src="https://www.coolmathgames.com/0-idle-startup-tycoon" width="800" height="600">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
